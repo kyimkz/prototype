@@ -1,0 +1,77 @@
+Course code,Course title,Internal Credit,Credit / ECTS,Grade,Letter Grade,Point,Traditional
+2020 - 2021. 1,,,,,,,
+INF 106,Information and Communications Technologies (Computer Science),3,5,* 75,B-,2.67,Good
+MAT 153,Mathematics for Computer Science 1,3,5,* 70,C+,2.33,Good
+MDE 101,Foreign Language (General English - A1 level),6,5,* 86,B+,3.33,Good
+MDE 127,Russian Language 1 (C1 level),3,5,* 84,B,3,Good
+MDE 141,Physical Education 1,1,2,* 93,A-,3.67,Excellent
+MDE 171,Modern History of Kazakhstan,3,5,* 88,B+,3.33,Good
+,,19,27,SA : 81.52,GA : 81.52,SPA : 2.99,GPA : 2.99
+2020 - 2021. 2,,,,,,,
+CEC 101,General English (A1 level),6,6,67,P,,Pass
+CSS 105,Fundamentals of Programming,4,5,58,D+,1.33,Satisfactory
+CSS 225,Web programming fundamentals,3,5,71,C+,2.33,Good
+MAT 151,Linear Algebra,3,5,69,C,2,Satisfactory
+MAT 154,Mathematics for Computer Science 2,3,5,63,C-,1.67,Satisfactory
+MAT 156,Discrete Mathematics,3,5,75,B-,2.67,Good
+MDE 131,Turkish Language 1 (А1 level),2,3,71,C+,2.33,Good
+MDE 142,Physical Education 2,1,2,95,A,4,Excellent
+,,25,36,SA : 69.43,GA : 75.16,SPA : 2.17,GPA : 2.55
+2020 - 2021. 3,,,,,,,
+MDE 132,Turkish Language 2 (А1 level),2,3,50,D,1,Satisfactory
+,,2,3,SA : 50,GA : 73.9,SPA : 1,GPA : 2.48
+2021 - 2022. 1,,,,,,,
+CEC 102,General English (A2 level),6,6,62,P,,Pass
+CSS 152,Physics 1,3,5,51,D,1,Satisfactory
+CSS 252,Electronics,4,5,61,C-,1.67,Satisfactory
+MDE 113,Kazakh Language 1 (B1 level),3,5,59,D+,1.33,Satisfactory
+MDE 133,Turkish Language 3 (А2 level),2,3,50,D,1,Satisfactory
+MDE 143,Physical Education 3,1,2,90,A-,3.67,Excellent
+MDE 151,Module of Social and Political Knowledge (Political Science),1,2,85,B+,3.33,Good
+MDE 152,Module of Social and Political Knowledge (Sociology),1,2,96,A,4,Excellent
+,,21,30,SA : 64.46,GA : 71.2,SPA : 1.88,GPA : 2.31
+2021 - 2022. 2,,,,,,,
+CSS 108,Programming Technologies and Educational Practice,3,5,0,F,0,Unsatisfactory
+CSS 254,Digital design,3,5,66,C,2,Satisfactory
+MAT 251,Probability and Mathematical Statictics,4,5,0,FX,0,Unsatisfactory
+MDE 134,Turkish Language 4 (А2 level),2,3,62,C-,1.67,Satisfactory
+MDE 144,Physical Education 4,1,2,85,B+,3.33,Good
+MDE 172,Philosophy,3,5,93,A-,3.67,Excellent
+MDE 191,Foreign Language 2 (English for Specific Purposes - B1+ level ),3,5,57,D+,1.33,Satisfactory
+,,19,30,SA : 47.87,GA : 65.06,SPA : 1.56,GPA : 2.11
+2022 - 2023. 1,,,,,,,
+CSS 108,Programming Technologies and Educational Practice,3,5,71,C+,2.33,Good
+CSS 214,Introduction to iOS Programming,3,5,0,F,0,Unsatisfactory
+CSS 312,Computer Networks 1,3,5,0,F,0,Unsatisfactory
+CSS 341,Computer organization and architecture,3,5,100,A,4,Excellent
+CSS 346,FPGA Programming,3,5,66,C,2,Satisfactory
+CSS 380,Industrial practice 1,1,1,70,P,,Pass
+INF 228,UX/UI design,3,5,52,D,1,Satisfactory
+MDE 167,Leadership,3,5,53,D,1,Satisfactory
+,,22,36,SA : 48.86,GA : 63.38,SPA : 1.48,GPA : 2.03
+2022 - 2023. 2,,,,,,,
+CSS 215,Introduction to Algorithms,3,5,84,B,3,Good
+CSS 309,Low-level Architecture,3,5,70,C+,2.33,Good
+CSS 342,Software engineering,3,5,75,B-,2.67,Good
+CSS 345,Advanced computer architecture,3,5,80,B,3,Good
+CSS 381,Industrial practice 2,1,1,70,C+,2.33,Good
+CSS 440,Distributed Computing,3,5,70,C+,2.33,Good
+INF 337,Deep Learning,3,5,82,B,3,Good
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),1,2,96,A,4,Excellent
+MDE 154,Module of Social and Political Knowledge (Psychology),1,2,97,A,4,Excellent
+,,21,35,SA : 78.89,GA : 66.41,SPA : 2.86,GPA : 2.19
+2022 - 2023. 3,,,,,,,
+CSS 312,Computer Networks 1,3,5,75,B-,2.67,Good
+MAT 251,Probability and Mathematical Statictics,4,5,53,D,1,Satisfactory
+,,7,10,SA : 64,GA : 69.99,SPA : 1.84,GPA : 2.29
+2023 - 2024. 1,,,,,,,
+CSS 214,Introduction to iOS Programming,3,5,46,IP,,In progress
+CSS 220,Advanced Algorithms,3,5,43,IP,,In progress
+CSS 410,Research tools and methods,3,5,59,IP,,In progress
+CSS 434,Business analytics,3,5,,IP,,In progress
+CSS 480,Industrial practice 3,2,3,,IP,,In progress
+CSS 481,Industrial practice 3,1,2,,IP,,In progress
+INF 360,IT-law,3,5,42,IP,,In progress
+INF 405,Personal Development in Computer Science,3,5,56,IP,,In progress
+,,21,35,SA : 0,GA : 69.99,SPA : 0,GPA : 2.29
+Total Internal Credits : 126,,Total credits/ECTS : 192,,Grand Average : 69.99,,Grand GPA : 2.29,

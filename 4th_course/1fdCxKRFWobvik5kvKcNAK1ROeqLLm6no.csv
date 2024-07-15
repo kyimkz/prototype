@@ -1,0 +1,47 @@
+Course code,Course title,Internal Credit,Credit / ECTS,Grade,Letter Grade,Point,Traditional
+2021 - 2022. 1,,,,,,,
+CSS 105,Fundamentals of Programming,4,5,99,A,4,Excellent
+MAT 151,Linear Algebra,3,5,84,B,3,Good
+MAT 153,Mathematics for Computer Science 1,3,5,88,B+,3.33,Good
+MDE 131,Turkish Language 1 (А1 level),2,3,100,A,4,Excellent
+MDE 141,Physical Education 1,1,2,100,A,4,Excellent
+MDE 171,Modern History of Kazakhstan,3,5,95,A,4,Excellent
+MDE 190,Foreign Language 1 (English for Specific Purposes - B1 level ),3,5,95,A,4,Excellent
+,,19,30,SA : 93.5,GA : 93.5,SPA : 3.72,GPA : 3.72
+2021 - 2022. 2,,,,,,,
+CSS 108,Programming Technologies and Educational Practice,3,5,95,A,4,Excellent
+INF 106,Information and Communications Technologies (Computer Science),3,5,98,A,4,Excellent
+MAT 154,Mathematics for Computer Science 2,3,5,95,A,4,Excellent
+MAT 156,Discrete Mathematics,3,5,98,A,4,Excellent
+MDE 132,Turkish Language 2 (А1 level),2,3,100,A,4,Excellent
+MDE 142,Physical Education 2,1,2,100,A,4,Excellent
+MDE 191,Foreign Language 2 (English for Specific Purposes - B1+ level ),3,5,96,A,4,Excellent
+,,18,30,SA : 97,GA : 95.25,SPA : 4,GPA : 3.86
+2022 - 2023. 1,,,,,,,
+CSS 152,Physics 1,3,5,100,A,4,Excellent
+CSS 215,Introduction to Algorithms,3,5,99,A,4,Excellent
+INF 202,Database Management Systems 1,3,5,99,A,4,Excellent
+INF 231,Web programming: front end,4,5,95,A,4,Excellent
+MDE 115,Kazakh Language 1 (B2 level),3,5,100,A,4,Excellent
+MDE 133,Turkish Language 3 (А2 level),2,3,100,A,4,Excellent
+MDE 243,Physical Education 3 (Basketball),1,2,95,A,4,Excellent
+,,19,30,SA : 98.5,GA : 96.33,SPA : 4,GPA : 3.91
+2022 - 2023. 2,,,,,,,
+CSS 223,C# Object Oriented Programming,3,5,* 79,B-,2.67,Good
+CSS 415,IT Management,3,5,* 79,B-,2.67,Good
+INF 369,Data visuallisation and storytelling,3,5,* 100,A,4,Excellent
+INF 370,User Interface Design,3,5,* 89,B+,3.33,Good
+,,12,20,SA : 86.75,GA : 94.59,SPA : 3.17,GPA : 3.77
+2023 - 2024. 1,,,,,,,
+CSS 380,Industrial practice 1,1,1,,IP,,In progress
+INF 305,Database Management Systems 2,3,5,59,IP,,In progress
+INF 338,Linux Administration,3,5,55,IP,,In progress
+MAT 251,Probability and Mathematical Statictics,4,5,60,IP,,In progress
+MDE 151,Module of Social and Political Knowledge (Political Science),1,2,56,IP,,In progress
+MDE 152,Module of Social and Political Knowledge (Sociology),1,2,,IP,,In progress
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),1,2,,IP,,In progress
+MDE 154,Module of Social and Political Knowledge (Psychology),1,2,51,IP,,In progress
+MDE 167,Leadership,3,5,56,IP,,In progress
+MDE 172,Philosophy,3,5,59,IP,,In progress
+,,21,34,SA : 0,GA : 94.59,SPA : 0,GPA : 3.77
+Total Internal Credits : 68,,Total credits/ECTS : 110,,Grand Average : 94.59,,Grand GPA : 3.77,

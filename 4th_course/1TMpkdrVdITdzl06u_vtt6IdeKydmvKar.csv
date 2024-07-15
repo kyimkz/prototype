@@ -1,0 +1,70 @@
+Course code,Course title,Internal Credit,Credit / ECTS,Grade,Letter Grade,Point,Traditional
+2020 - 2021. 1,,,,,,,
+CSS 105,Fundamentals of Programming,4,5,66,C,2,Satisfactory
+MAT 151,Linear Algebra,3,5,70,C+,2.33,Good
+MAT 153,Mathematics for Computer Science 1,3,5,62,C-,1.67,Satisfactory
+MDE 103,Foreign Language 1 (English for Specific Purposes - B1 level ),3,5,80,B,3,Good
+MDE 131,Turkish Language 1 (А1 level),2,3,0,FX,0,Unsatisfactory
+MDE 141,Physical Education 1,1,2,90,A-,3.67,Excellent
+MDE 171,Modern History of Kazakhstan,3,5,78,B-,2.67,Good
+,,19,30,SA : 65.33,GA : 65.33,SPA : 2.19,GPA : 2.19
+2020 - 2021. 2,,,,,,,
+CSS 108,Programming Technologies and Educational Practice,3,5,50,D,1,Satisfactory
+INF 106,Information and Communications Technologies (Computer Science),3,5,60,C-,1.67,Satisfactory
+MAT 154,Mathematics for Computer Science 2,3,5,56,D+,1.33,Satisfactory
+MAT 156,Discrete Mathematics,3,5,0,F,0,Unsatisfactory
+MDE 131,Turkish Language 1 (А1 level),2,3,75,B-,2.67,Good
+MDE 142,Physical Education 2,1,2,95,A,4,Excellent
+MDE 188,Foreign Language 2 (English for Specific Purposes - B1+ level ),3,5,0,F,0,Unsatisfactory
+,,18,30,SA : 41.5,GA : 56.23,SPA : 1.2,GPA : 1.78
+2020 - 2021. 3,,,,,,,
+MDE 132,Turkish Language 2 (А1 level),2,3,68,C,2,Satisfactory
+,,2,3,SA : 68,GA : 56.82,SPA : 2,GPA : 1.8
+2021 - 2022. 1,,,,,,,
+CSS 152,Physics 1,3,5,50,D,1,Satisfactory
+CSS 215,Introduction to Algorithms,3,5,76,B-,2.67,Good
+INF 202,Database Management Systems 1,3,5,73,C+,2.33,Good
+INF 231,Web programming: front end,3,5,89,B+,3.33,Good
+MDE 113,Kazakh Language 1 (B1 level),3,5,80,B,3,Good
+MDE 133,Turkish Language 3 (А2 level),2,3,0,F,0,Unsatisfactory
+MDE 143,Physical Education 3,1,2,75,B-,2.67,Good
+MDE 191,Foreign Language 2 (English for Specific Purposes - B1+ level ),3,5,64,C-,1.67,Satisfactory
+,,21,35,SA : 66,GA : 63.54,SPA : 2.15,GPA : 2.03
+2021 - 2022. 2,,,,,,,
+CSS 220,Advanced Algorithms,3,5,59,D+,1.33,Satisfactory
+INF 232,Web programming: back end,4,5,62,C-,1.67,Satisfactory
+INF 305,Database Management Systems 2,3,5,79,B-,2.67,Good
+INF 313,Computer networks 1,3,5,54,D,1,Satisfactory
+MDE 114,Kazakh Language 2 (B1 level),3,5,58,D+,1.33,Satisfactory
+MDE 144,Physical Education 4,1,2,90,A-,3.67,Excellent
+,,17,27,SA : 64.44,GA : 63.75,SPA : 1.75,GPA : 1.97
+2022 - 2023. 1,,,,,,,
+CSS 324,Introduction to Machine Learning,3,5,90,A-,3.67,Excellent
+CSS 380,Industrial practice 1,1,1,50,P,,Pass
+INF 361,Information Theory,3,5,0,F,0,Unsatisfactory
+INF 376,Natural Language Processing,3,5,0,F,0,Unsatisfactory
+MAT 251,Probability and Mathematical Statictics,4,5,56,D+,1.33,Satisfactory
+MDE 133,Turkish Language 3 (А2 level),2,3,0,F,0,Unsatisfactory
+MDE 151,Module of Social and Political Knowledge (Political Science),1,2,72,C+,2.33,Good
+MDE 152,Module of Social and Political Knowledge (Sociology),1,2,84,B,3,Good
+,,18,28,SA : 38.59,GA : 60.29,SPA : 1.32,GPA : 1.89
+2022 - 2023. 2,,,,,,,
+CSS 381,Industrial practice 2,1,1,50,D,1,Satisfactory
+CSS 411,Advanced Programming using JAVA EE,3,5,63,C-,1.67,Satisfactory
+INF 261,Game Physics,3,5,54,D,1,Satisfactory
+INF 362,Design for Manufacture,3,5,0,F,0,Unsatisfactory
+INF 369,Data visuallisation and storytelling,3,5,0,F,0,Unsatisfactory
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),1,2,93,A-,3.67,Excellent
+MDE 154,Module of Social and Political Knowledge (Psychology),1,2,97,A,4,Excellent
+MDE 172,Philosophy,3,5,58,D+,1.33,Satisfactory
+,,18,30,SA : 43.5,GA : 57.35,SPA : 1.21,GPA : 1.77
+2023 - 2024. 1,,,,,,,
+CSS 410,Research tools and methods,3,5,0,F,0,Unsatisfactory
+CSS 450,Industrial project (Introduction),3,5,24,IP,,In progress
+CSS 451,Industrial project (Development),3,5,24,IP,,In progress
+CSS 452,Industrial project (Design),3,5,24,IP,,In progress
+CSS 453,Industrial project (Testing),3,5,24,IP,,In progress
+CSS 480,Industrial practice 3,2,3,,IP,,In progress
+CSS 481,Industrial practice 3,1,2,,IP,,In progress
+,,18,30,SA : 0,GA : 55.72,SPA : 0,GPA : 1.72
+Total Internal Credits : 109,,Total credits/ECTS : 177,,Grand Average : 55.72,,Grand GPA : 1.72,

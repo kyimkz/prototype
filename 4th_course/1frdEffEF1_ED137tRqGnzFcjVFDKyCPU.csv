@@ -1,0 +1,70 @@
+Course code,Course title,Internal Credit,Credit / ECTS,Grade,Letter Grade,Point,Traditional
+2020 - 2021. 1,,,,,,,
+CEC 102,General English (A2 level),6,6,87,P,,Pass
+CSS 105,Fundamentals of Programming,4,5,86,B+,3.33,Good
+MAT 151,Linear Algebra,3,5,78,B-,2.67,Good
+MAT 153,Mathematics for Computer Science 1,3,5,71,C+,2.33,Good
+MDE 131,Turkish Language 1 (А1 level),2,3,72,C+,2.33,Good
+MDE 141,Physical Education 1,1,2,95,A,4,Excellent
+MDE 171,Modern History of Kazakhstan,3,5,92,A-,3.67,Excellent
+,,22,31,SA : 81.64,GA : 81.64,SPA : 3,GPA : 3
+2020 - 2021. 2,,,,,,,
+CSS 108,Programming Technologies and Educational Practice,3,5,67,C,2,Satisfactory
+INF 106,Information and Communications Technologies (Computer Science),3,5,90,A-,3.67,Excellent
+MAT 154,Mathematics for Computer Science 2,3,5,90,A-,3.67,Excellent
+MAT 156,Discrete Mathematics,3,5,57,D+,1.33,Satisfactory
+MDE 103,Foreign Language 1 (English for Specific Purposes - B1 level ),3,5,82,B,3,Good
+MDE 132,Turkish Language 2 (А1 level),2,3,81,B,3,Good
+MDE 142,Physical Education 2,1,2,95,A,4,Excellent
+MDE 144,Physical Education 4,1,2,100,A,4,Excellent
+,,19,32,SA : 80.09,GA : 80.77,SPA : 2.92,GPA : 2.95
+2021 - 2022. 1,,,,,,,
+CSS 152,Physics 1,3,5,70,C+,2.33,Good
+CSS 215,Introduction to Algorithms,3,5,86,B+,3.33,Good
+INF 202,Database Management Systems 1,3,5,100,A,4,Excellent
+INF 231,Web programming: front end,3,5,92,A-,3.67,Excellent
+MDE 113,Kazakh Language 1 (B1 level),3,5,96,A,4,Excellent
+MDE 133,Turkish Language 3 (А2 level),2,3,86,B+,3.33,Good
+MDE 143,Physical Education 3,1,2,95,A,4,Excellent
+MDE 191,Foreign Language 2 (English for Specific Purposes - B1+ level ),3,5,72,C+,2.33,Good
+,,21,35,SA : 86.51,GA : 82.96,SPA : 3.32,GPA : 3.09
+2021 - 2022. 2,,,,,,,
+CSS 220,Advanced Algorithms,3,5,75,B-,2.67,Good
+INF 232,Web programming: back end,4,5,78,B-,2.67,Good
+INF 305,Database Management Systems 2,3,5,79,B-,2.67,Good
+INF 313,Computer networks 1,3,5,,W,,Withdraw
+MDE 114,Kazakh Language 2 (B1 level),3,5,100,A,4,Excellent
+MDE 134,Turkish Language 4 (А2 level),2,3,90,A-,3.67,Excellent
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),1,2,93,A-,3.67,Excellent
+,,19,30,SA : 84.64,GA : 83.32,SPA : 3.14,GPA : 3.1
+2022 - 2023. 1,,,,,,,
+CSS 216,Mobile Programming,3,5,70,C+,2.33,Good
+CSS 380,Industrial practice 1,1,1,70,P,,Pass
+INF 312,Engineering and computer graphics,3,5,89,B+,3.33,Good
+INF 323,Data analysis,3,5,86,B+,3.33,Good
+INF 357,Introduction to Unity programming,4,5,,W,,Withdraw
+INF 429,IT Audit and controls,3,5,65,C,2,Satisfactory
+MAT 251,Probability and Mathematical Statictics,4,5,52,D,1,Satisfactory
+MDE 151,Module of Social and Political Knowledge (Political Science),1,2,72,C+,2.33,Good
+MDE 152,Module of Social and Political Knowledge (Sociology),1,2,70,C+,2.33,Good
+MDE 162,Law,3,5,100,A,4,Excellent
+,,26,40,SA : 76.29,GA : 81.74,SPA : 2.63,GPA : 3
+2022 - 2023. 2,,,,,,,
+CSS 381,Industrial practice 2,1,1,100,A,4,Excellent
+INF 313,Computer networks 1,3,5,53,D,1,Satisfactory
+INF 368,The Go programming language,3,5,98,A,4,Excellent
+INF 379,Introduction to self-driving cars,3,5,100,A,4,Excellent
+INF 392,Blockchain technology,3,5,70,C+,2.33,Good
+INF 405,Personal Development in Computer Science,3,5,74,C+,2.33,Good
+MDE 154,Module of Social and Political Knowledge (Psychology),1,2,99,A,4,Excellent
+MDE 172,Philosophy,3,5,70,C+,2.33,Good
+,,20,33,SA : 79.48,GA : 81.33,SPA : 2.79,GPA : 2.96
+2023 - 2024. 1,,,,,,,
+CSS 410,Research tools and methods,3,5,50,IP,,In progress
+CSS 450,Industrial project (Introduction),3,5,59,IP,,In progress
+CSS 451,Industrial project (Development),3,5,59,IP,,In progress
+CSS 452,Industrial project (Design),3,5,59,IP,,In progress
+CSS 480,Industrial practice 3,2,3,,IP,,In progress
+CSS 481,Industrial practice 3,1,2,,IP,,In progress
+,,15,25,SA : 0,GA : 81.33,SPA : 0,GPA : 2.96
+Total Internal Credits : 120,,Total credits/ECTS : 191,,Grand Average : 81.33,,Grand GPA : 2.96,

@@ -1,0 +1,71 @@
+Course code,Course title,Internal Credit,Credit / ECTS,Grade,Letter Grade,Point,Traditional
+2020 - 2021. 1,,,,,,,
+MAT 101,Mathematical analysis 1,3,5,52,D,1,Satisfactory
+MAT 104,Linear Algebra and Analytic Geometry,3,5,100,A,4,Excellent
+MAT 105,Introductory mathematics,2,3,100,P,,Pass
+MCM 107,Fundamentals of Programming,2,3,72,C+,"2,33",Good
+MDE 104,Foreign Language 1 (English for Specific Purposes - B2 level),3,5,80,B,3,Good
+MDE 131,Turkish Language 1 (А1 level),2,3,93,A-,"3,67",Excellent
+MDE 141,Physical Education 1,1,2,90,A-,"3,67",Excellent
+MDE 171,Modern History of Kazakhstan,3,5,95,A,4,Excellent
+,,19,31,SA : 82.5,GA : 82.5,SPA : 3.05,GPA : 3.05
+2020 - 2021. 2,,,,,,,
+CSS 253,Programming Technologies for Mathematics,3,5,70,C+,"2,33",Good
+INF 101,Information and Communication Technologies,3,5,89,B+,"3,33",Good
+MAT 119,Additional chapters of linear algebra,2,3,92,A-,"3,67",Excellent
+MAT 120,Mathematical analysis 2 and Educational practice,4,6,0,FX,0,Unsatisfactory
+MDE 106,Foreign Language 2 (English for Specific Purposes - B2+ level),3,5,75,B-,"2,67",Good
+MDE 132,Turkish Language 2 (А1 level),2,3,82,B,3,Good
+MDE 142,Physical Education 2,1,2,86,B+,"3,33",Good
+MDE 144,Physical Education 4,1,2,86,B+,"3,33",Good
+,,19,31,SA : 65.68,GA : 73.66,SPA : 2.42,GPA : 2.72
+2021 - 2022. 1,,,,,,,
+MAT 108,Algebra,3,5,54,D,1,Satisfactory
+MAT 201,Discrete mathematics,3,5,58,D+,"1,33",Satisfactory
+MAT 203,Mathematical analysis 3,3,5,51,D,1,Satisfactory
+MAT 205,Ordinary differential equations,3,5,54,D,1,Satisfactory
+MDE 113,Kazakh Language 1 (B1 level),3,5,69,C,2,Satisfactory
+MDE 133,Turkish Language 3 (А2 level),2,3,81,B,3,Good
+MDE 143,Physical Education 3,1,2,90,A-,"3,67",Excellent
+,,18,30,SA : 61.77,GA : 69.65,SPA : 1.6,GPA : 2.34
+2021 - 2022. 2,,,,,,,
+MAT 120,Mathematical analysis 2 and Educational practice,4,6,50,D,1,Satisfactory
+MAT 204,Mathematical analysis 4,3,5,50,D,1,Satisfactory
+MAT 221,Classical mechanics,3,5,50,D,1,Satisfactory
+MAT 312,Theory of Probablility and Mathematical Statistics,3,5,0,F,0,Unsatisfactory
+MDE 114,Kazakh Language 2 (B1 level),3,5,63,C-,"1,67",Satisfactory
+MDE 134,Turkish Language 4 (А2 level),2,3,76,B-,"2,67",Good
+MDE 172,Philosophy,3,5,95,A,4,Excellent
+,,21,34,SA : 53.47,GA : 68.52,SPA : 1.54,GPA : 2.23
+2022 - 2023. 1,,,,,,,
+MAT 213,Introduction to Real Analysis,3,5,61,C-,"1,67",Satisfactory
+MAT 218,Introduction to Numerical Analysis,3,5,50,D,1,Satisfactory
+MAT 303,Internship 1,1,1,100,A,4,Excellent
+MAT 320,Introduction to Partial Differential Equations,3,5,76,B-,"2,67",Good
+MAT 442,Mathematical Statistics & Theory of Probability 2,3,5,64,C-,"1,67",Satisfactory
+MDE 151,Module of Social and Political Knowledge (Political Science),1,2,64,C-,"1,67",Satisfactory
+MDE 152,Module of Social and Political Knowledge (Sociology),1,2,90,A-,"3,67",Excellent
+MDE 166,Еntrepreneurship,3,5,86,B+,"3,33",Good
+,,18,30,SA : 69.77,GA : 68.78,SPA : 2.21,GPA : 2.22
+2022 - 2023. 2,,,,,,,
+CSS 206,Database Management Systems 1,3,5,90,A-,"3,67",Excellent
+MAT 251,Probability and Mathematical Statictics,4,5,70,C+,"2,33",Good
+MAT 304,Equations of mathematical physics,3,5,73,C+,"2,33",Good
+MAT 307,Complex analysis,3,5,57,D+,"1,33",Satisfactory
+MAT 327,Internship 2,1,1,100,A,4,Excellent
+MAT 364,Cryptography,3,5,54,D,1,Satisfactory
+MAT 371,Functional analysis,3,5,0,FX,0,Unsatisfactory
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),1,2,95,A,4,Excellent
+MDE 154,Module of Social and Political Knowledge (Psychology),1,2,92,A-,"3,67",Excellent
+,,22,35,SA : 62.69,GA : 69.51,SPA : 2.08,GPA : 2.26
+2022 - 2023. 3,,,,,,,
+MAT 371,Functional analysis,3,5,51,D,1,Satisfactory
+,,3,5,SA : 51,GA : 70.95,SPA : 1,GPA : 2.29
+2023 - 2024. 1,,,,,,,
+CSS 421,Computer Vision,3,5,52,IP,,In progress
+MAT 328,Internship 3,2,3,,IP,,In progress
+MAT 329,Internship 4,1,2,,IP,,In progress
+MAT 370,Methods of Scientific research,3,5,59,IP,,In progress
+MAT 445,Game theory,3,5,36,IP,,In progress
+MAT 489,Mathematical modelling of economic processes,3,5,54,IP,,In progress
+,,15,25,SA : 0,GA : 70.95,SPA : 0,GPA : 2.29

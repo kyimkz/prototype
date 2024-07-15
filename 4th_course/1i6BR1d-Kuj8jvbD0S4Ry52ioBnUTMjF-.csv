@@ -1,0 +1,69 @@
+Course code,Course title,Internal Credit,Credit / ECTS,Grade,Letter Grade,Point,Traditional
+2020 - 2021. 1,,,,,,,
+CEC 101,General English (A1 level),6,6,88,P,,Pass
+CSS 105,Fundamentals of Programming,4,5,80,B,3,Good
+INF 106,Information and Communications Technologies (Computer Science),3,5,75,B-,2.67,Good
+MAT 151,Linear Algebra,3,5,82,B,3,Good
+MAT 153,Mathematics for Computer Science 1,3,5,71,C+,2.33,Good
+MDE 131,Turkish Language 1 (А1 level),2,3,83,B,3,Good
+MDE 141,Physical Education 1,1,2,90,A-,3.67,Excellent
+,,22,31,SA : 78.76,GA : 78.76,SPA : 2.85,GPA : 2.85
+2020 - 2021. 2,,,,,,,
+CEC 102,General English (A2 level),6,6,84,P,,Pass
+CSS 108,Programming Technologies and Educational Practice,3,5,72,C+,2.33,Good
+CSS 225,Web programming fundamentals,3,5,96,A,4,Excellent
+MAT 154,Mathematics for Computer Science 2,3,5,70,C+,2.33,Good
+MAT 156,Discrete Mathematics,3,5,81,B,3,Good
+MDE 132,Turkish Language 2 (А1 level),2,3,86,B+,3.33,Good
+MDE 142,Physical Education 2,1,2,95,A,4,Excellent
+MDE 144,Physical Education 4,1,2,83,B,3,Good
+,,22,33,SA : 81.81,GA : 80.35,SPA : 3.05,GPA : 2.95
+2021 - 2022. 1,,,,,,,
+CSS 152,Physics 1,3,5,92,A-,3.67,Excellent
+CSS 215,Introduction to Algorithms,3,5,86,B+,3.33,Good
+CSS 252,Electronics,4,5,95,A,4,Excellent
+MDE 113,Kazakh Language 1 (B1 level),3,5,87,B+,3.33,Good
+MDE 133,Turkish Language 3 (А2 level),2,3,82,B,3,Good
+MDE 143,Physical Education 3,1,2,90,A-,3.67,Excellent
+MDE 171,Modern History of Kazakhstan,3,5,95,A,4,Excellent
+MDE 190,Foreign Language 1 (English for Specific Purposes - B1 level ),3,5,97,A,4,Excellent
+,,22,35,SA : 91.03,GA : 84.64,SPA : 3.66,GPA : 3.24
+2021 - 2022. 2,,,,,,,
+CSS 220,Advanced Algorithms,3,5,93,A-,3.67,Excellent
+CSS 254,Digital design,3,5,87,B+,3.33,Good
+MAT 251,Probability and Mathematical Statictics,4,5,92,A-,3.67,Excellent
+MDE 114,Kazakh Language 2 (B1 level),3,5,99,A,4,Excellent
+MDE 134,Turkish Language 4 (А2 level),2,3,91,A-,3.67,Excellent
+MDE 172,Philosophy,3,5,94,A-,3.67,Excellent
+MDE 191,Foreign Language 2 (English for Specific Purposes - B1+ level ),3,5,85,B+,3.33,Good
+,,21,33,SA : 91.61,GA : 86.56,SPA : 3.62,GPA : 3.34
+2022 - 2023. 1,,,,,,,
+CSS 216,Mobile Programming,3,5,95,A,4,Excellent
+CSS 312,Computer Networks 1,3,5,83,B,3,Good
+CSS 328,Introduction to Data Analysis,3,5,98,A,4,Excellent
+CSS 341,Computer organization and architecture,3,5,100,A,4,Excellent
+CSS 380,Industrial practice 1,1,1,100,P,,Pass
+MDE 151,Module of Social and Political Knowledge (Political Science),1,2,91,A-,3.67,Excellent
+MDE 152,Module of Social and Political Knowledge (Sociology),1,2,90,A-,3.67,Excellent
+MDE 167,Leadership,3,5,82,B,3,Good
+,,18,30,SA : 91.45,GA : 87.51,SPA : 3.61,GPA : 3.39
+2022 - 2023. 2,,,,,,,
+CSS 309,Low-level Architecture,3,5,100,A,4,Excellent
+CSS 342,Software engineering,3,5,95,A,4,Excellent
+CSS 345,Advanced computer architecture,3,5,99,A,4,Excellent
+CSS 381,Industrial practice 2,1,1,100,A,4,Excellent
+CSS 440,Distributed Computing,3,5,100,A,4,Excellent
+INF 423,Statistics and Visualization for Data Analysis,3,5,95,A,4,Excellent
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),1,2,96,A,4,Excellent
+MDE 154,Module of Social and Political Knowledge (Psychology),1,2,97,A,4,Excellent
+,,18,30,SA : 97.7,GA : 89.22,SPA : 4,GPA : 3.5
+2023 - 2024. 1,,,,,,,
+CSS 410,Research tools and methods,3,5,57,IP,,In progress
+CSS 450,Industrial project (Introduction),3,5,60,IP,,In progress
+CSS 451,Industrial project (Development),3,5,60,IP,,In progress
+CSS 452,Industrial project (Design),3,5,60,IP,,In progress
+CSS 453,Industrial project (Testing),3,5,60,IP,,In progress
+CSS 480,Industrial practice 3,2,3,,IP,,In progress
+CSS 481,Industrial practice 3,1,2,,IP,,In progress
+,,18,30,SA : 0,GA : 89.22,SPA : 0,GPA : 3.5
+Total Internal Credits : 123,,Total credits/ECTS : 192,,Grand Average : 89.22,,Grand GPA : 3.5,
